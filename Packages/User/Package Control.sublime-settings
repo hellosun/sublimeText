@@ -1,0 +1,33 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AngularJS",
+		"AngularJS Snippets",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"Color Highlighter",
+		"Darkula Color Scheme",
+		"DocBlockr",
+		"Emmet",
+		"Gulp",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"jQuery",
+		"LESS",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - Spacegray"
+	]
+}
